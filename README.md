@@ -4,7 +4,7 @@
 - 📫 How to reach me on
 - Email : harshitvishwakarma007@gmail.com
 - LinkedIn : http://www.linkedin.com/in/harshit-vishwakarma-0a7909269
-- Instagram : harshitvishwakarma07
+- Instagram : [harshitvishwakarma07](https://instagram.com/harshitvishwakarma07?igshid=MzNlNGNkZWQ4Mg==)
 
 <!---
 HarshitVishwakrma/HarshitVishwakrma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
