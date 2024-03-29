@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshitVishwakrma
 - 👀 I’m interested in building new things.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript Frameworks.
 - 📫 How to reach me on
 - Email : harshitvishwakarma007@gmail.com
 - LinkedIn : http://www.linkedin.com/in/harshit-vishwakarma-0a7909269
